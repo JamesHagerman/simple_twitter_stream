@@ -4,6 +4,17 @@ Simple Twitter Streamer
 This app will basically just yank Tweets out of the stream and shove em into MySQL.
 
 
+Configure OAuth tokens
+----------------------
+
+You'll need to modify the script to have your own personal OAuth token's and app keys. Just make a stupid twitter app and you'll get everything you need.
+
+Configure the stream filters
+----------------------------
+
+You will also want to modify the stream filter list to track your nonsense instead of what is currently in there...
+
+
 Setting up mysql: Part 1
 ----------------
 
